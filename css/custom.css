@@ -1,4 +1,9 @@
-@media (min-width: 768px)
 .navbar-nav {
     float: right;
+}
+
+.supporters {
+    text-align:center;
+    width:50%;
+    margin:auto;
 }
