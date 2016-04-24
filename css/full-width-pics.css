@@ -18,14 +18,14 @@ body {
 }
 
 .image-bg-fluid-height {
-    background: url('/img/ods16_fbCoverNettuno.png') no-repeat center center scroll;
+    background: url('../img/ods16_fbCoverNettuno.png') no-repeat center center scroll;
     padding: 200px 0;
     background-size: cover;
 
 }
 
 .image-bg-fixed-height {
-	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
+	background: url('../img/ods15_filtered.jpg') no-repeat center center scroll;
     height: 450px;
 }
 
