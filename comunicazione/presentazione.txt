@@ -1,0 +1,26 @@
+Nell'ultimo decennio la tematica degli open data ha riscosso sempre maggiore attenzione
+a livello istituzionale ma anche da parte di iniziative di comunità. I dati si dicono
+rilasciati come open data se sono accessibili a chiunque tramite internet e possono essere
+riutilizzati e rielaborati senza limitazioni, anche ad esempio a scopi commerciali.
+
+In questo contesto, il movimento open data opera con azioni di attivismo di breve o lungo periodo volte da un lato a 
+coinvolgere la popolazione e gli stakeholders nell'utilizzo degli open data e dall'altro a spingere 
+la Pubblica Amministrazione ad aumentare la produzione di open data e la qualità degli stessi. 
+
+Open Data Sicilia è un'iniziativa civica che si propone di far conoscere e diffondere la
+cultura dell'open government e le prassi dell'open data nel territorio siciliano e aprire
+una discussione pubblica partecipata. Nel gruppo di Open Data Sicilia sono presenti figure 
+variegate e diverse professionalità: data journalist, informatici, ingegnieri, dipendenti della
+pubblica amministrazione, sociologi, accademici, etc.
+
+Tra le iniziative di Open Data Sicilia ricordiamo: l'elaborazione e approvazione delle linee guida
+per gli open data del comune di Palermo; la campagna Vogliamo il SITR online, nella quale sono 
+stati denunciati alcuni disservizi del Sistema Informativo Territoriale della Regione Siciliana; 
+la realizzazione del Non Portale della Regione Siciliana, attività volta a spingere la regione 
+siciliana a dotarsi di un portale open-data come hanno già fatto gran parte delle regioni italiane
+e che ha portato alla realizzazione di elenco di tutti i dataset di Pubbliche Amministrazioni 
+siciliane.
+
+I membri di Open Data Sicilia si incontrano per condividere esperienze e identificare future azioni
+in due raduni annuali. Il prossimo raduno si terrà a Messina il 2/3/4 Settembre del 2016.
+ 
