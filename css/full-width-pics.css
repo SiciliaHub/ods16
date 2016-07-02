@@ -17,12 +17,14 @@ body {
     -o-background-size: cover;
 }
 
+
 .image-bg-fluid-height {
-    background: url('../img/ods16_fbCoverNettuno.png') no-repeat center center scroll;
+    background: url('../img/ods16_fbCoverNettuno.png') left top no-repeat;
     padding: 200px 0;
     background-size: cover;
-
+    margin-top: 50px;
 }
+
 
 .image-bg-fixed-height {
 	background: url('../img/ods15_filtered.jpg') no-repeat center center scroll;
