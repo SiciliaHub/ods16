@@ -112,8 +112,8 @@
                     <!-- Place this tag where you want the Awesome Table Widget to render -->
 <!-- tabella programma -->
 <div class="table-responsive">
-  <p class="lead section-lead">Venerdì 2 settembre 2016</p>
-  <table class="table table-hover table-condensed">
+  <h2 class="text-center">Venerdì 2 settembre 2016</h2>
+  <table class="table table-hover table-sieve">
   <thead>
       <tr class="info">
         <th class="col-md-1">Orario<span class=""></span></th>
@@ -212,8 +212,8 @@
   </table>
 </div>
 <div class="table-responsive">
-  <p class="lead section-lead">Sabato 3 settembre 2016</p>
-  <table class="table table-hover table-condensed">
+  <h2 class="text-center">Sabato 3 settembre 2016</h2>
+  <table class="table table-hover table-sieve">
   <thead>
       <tr class="info">
         <th class="col-md-1">Orario<span class=""></span></th>
@@ -223,7 +223,6 @@
         </tr>
   </thead>
   <tbody>
-
 		<tr class="">
       	<td class="">09:30 » 10:00</td>
       	<td class="">Aula 3 » Colapesce</td>
@@ -401,3 +400,28 @@
             <div class="row">
                 <div class="col-lg-12">
                     <p>I contenuti di questo sito sono rilasciati in licenza <a href="creativecommons.org/licenses/by/4.0/" target="_blank">CCby4.0</a> | Il tema usato per questo sito è preso da <a href="http://startbootstrap.com/template-overviews/full-width-pics/" target="_blank">Start Bootstrap</a> ed è anche su <a href="https://github.com/SiciliaHub/ods16">Github</a></p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Sieve JQuery list filter -->
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="js/jquery.sieve.min.js" type="text/javascript"></script>
+    <script>
+      var searchTemplate = "<div class='form-inline text-center'><label>Quale evento ti interessa? <input type='text' class='form-control' placeholder='(cerca qui...)'></label></div>"
+      $(".table-sieve").sieve({ searchTemplate: searchTemplate });
+    </script>
+
+
+</body>
+
+</html>
