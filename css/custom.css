@@ -20,3 +20,7 @@ div#dona form {
 .navbar-brand {
     font-size: 1.6rem;
 }
+
+div#speaker div.col-xs-4 {
+  min-height:150px;
+}
