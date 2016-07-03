@@ -7,3 +7,16 @@
     width:50%;
     margin:auto;
 }
+
+div#dona div {
+  padding:25px;
+}
+
+div#dona form {
+  float:right;
+  margin: 10px;
+}
+
+.navbar-brand {
+    font-size: 1.6rem;
+}
