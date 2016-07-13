@@ -16,8 +16,8 @@
    width="2027.5"
    height="1527.5"
    viewBox="0 0 2027.5 1527.5"
-   sodipodi:docname="ods16_messina_coverFB_ab.svg"
-   inkscape:export-filename="/home/nelsonmau/Documenti/DJ/Progetti/Ondata/OpendataSicilia/raduno OD sicilia 2016/ods16_messina_1.svg.png"
+   sodipodi:docname="ods16_messina_coverTwitter.svg"
+   inkscape:export-filename="C:\Users\aborruso\Documents\GitHub\ods16\comunicazione\ods16_messina_coverTwitter.png"
    inkscape:export-xdpi="72"
    inkscape:export-ydpi="72">
   <metadata
@@ -396,6 +396,17 @@
          d="m -249.07,-14.944 498.14,0 0,29.888 -498.14,0 0,-29.888 z"
          id="path5712" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4285">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4287"
+         width="1683.8271"
+         height="472.59415"
+         x="427.70966"
+         y="1843.1619" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -410,9 +421,9 @@
      inkscape:window-height="987"
      id="namedview4306"
      showgrid="false"
-     inkscape:zoom="0.30900164"
-     inkscape:cx="666.08832"
-     inkscape:cy="849.192"
+     inkscape:zoom="0.43699431"
+     inkscape:cx="1069.9016"
+     inkscape:cy="302.81824"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -564,7 +575,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic Bold';text-align:start;text-anchor:start;fill:#ffffff"
        id="flowPara3662">di OpenData Sicilia</flowPara><flowPara
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:NanumGothic;-inkscape-font-specification:'NanumGothic Bold';text-align:start;text-anchor:start;fill:#ffffff"
-       id="flowPara4466">www.opendatasicilia.it</flowPara></flowRoot>  <flowRoot
+       id="flowPara4466">ods16.opendatasicilia.it</flowPara></flowRoot>  <flowRoot
      style="font-style:normal;font-weight:normal;font-size:14.81868744px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="flowRoot4468"
      xml:space="preserve"
@@ -655,7 +666,8 @@
      clip-path="url(#clipPath6457)" />
   <g
      id="g6763"
-     transform="matrix(1.1618225,0,0,1.1618225,-448.37926,-1374.731)">
+     transform="matrix(1.1618225,0,0,1.1618225,-448.37926,-1374.731)"
+     clip-path="url(#clipPath4285)">
     <g
        transform="matrix(0.883875,0.883875,0.883875,-0.883875,1824.3142,1686.2557)"
        id="g5730"
