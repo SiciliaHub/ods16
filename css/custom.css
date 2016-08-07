@@ -24,3 +24,6 @@ div#dona form {
 div#speaker div.col-xs-4 {
   min-height:150px;
 }
+.image-bg-fluid-height {
+    padding: 170px 0;
+  }
